@@ -6,5 +6,6 @@ package com.baizhi.test;
 public class aaaTest {
     public static void main(String[] args) {
         System.out.println("aaaaaaaaaaaaa");
+        System.out.println("ssssssssssss");
     }
 }
